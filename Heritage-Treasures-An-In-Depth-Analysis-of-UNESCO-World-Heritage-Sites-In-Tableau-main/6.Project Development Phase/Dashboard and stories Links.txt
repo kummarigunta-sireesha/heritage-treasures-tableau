@@ -1,0 +1,24 @@
+Dashboard Link:
+ 
+https://public.tableau.com/views/dashboard_17710911098700/UNESCOWorldHeritageSitesAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+
+Stories Links:
+  
+        story 1:
+        https://public.tableau.com/views/story1_17710907232560/Story1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+       story 2:
+       https://public.tableau.com/views/story2_17710907868760/Story2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+       story 3:
+       https://public.tableau.com/views/story3_17710908446770/Story3?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+       story 4:
+       https://public.tableau.com/views/story4_17710908983790/Story4?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+       story 5:
+       https://public.tableau.com/views/story5_17710909549370/Story5?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+       story 6:
+       https://public.tableau.com/views/story6_17710910172110/Story6?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
